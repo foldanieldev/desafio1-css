@@ -62,6 +62,14 @@ header.banner div.banner-content button {
     cursor: pointer;
 }
 
+header.banner div.banner-content button:hover {
+    opacity: .8;
+}
+
+header.banner div.banner-content button:active {
+    opacity: .4;
+}
+
 main {
     margin: auto;
     text-align: center;
